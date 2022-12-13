@@ -14,6 +14,8 @@ import AlterarScreen from './screen/Alterar';
 
 
 
+
+
 const Stack = createNativeStackNavigator();
 
 function App() {
